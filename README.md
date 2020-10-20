@@ -15,9 +15,9 @@ The file contain tab separated information about Tweet IDs and their annotations
 
 Before you download the Twitter data, please first register as a Twitter developer and get Twitter API keys and tokens: https://developer.twitter.com/en/docs/basics/authentication/overview 
 
-In "downloadTweet.py", please specify the keys and tokens from Twitter API and change addresses for both input and output files.
+In "downloadTweet.py", please specify the keys and tokens from Twitter API and change file path for both input and output files.
 
-Note that some tweets are not public available currently. In the output file, we leave the text blank if it is not available public.
+Note that some tweets are not public available currently. In the output file, we leave the text blank if it is not available.
 
 ## CONTACT
 
@@ -28,7 +28,7 @@ Cui Tao, cui.tao@uth.tmc.edu
 
 Center for Biomedical Semantics and Data Intelligence
 School of Biomedical Informatics
-University of Texas Health Science Center at Houston
+The University of Texas Health Science Center at Houston
 https://sbmi.uth.edu/bsdi/
 
 UPDATE DATE:

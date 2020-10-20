@@ -4,7 +4,7 @@ We provide the annotations for the HPV vaccine Twitter corpus that was used in "
 ## NOTE
 
 Please note that by downloading the Twitter data you agree to follow the Twitter terms of service (https://twitter.com/tos?lang=en), which requires not to redistribute the data and to delete tweets that are marked deleted in the future.
-You MUST NOT re-distribute the tweets, the annotations or the corpus obtained, as this violates the Twitter Terms of Use.
+You MUST NOT re-distribute the tweets, as this violates the Twitter Terms of Use.
 
 ## DATA
 The annotations for Tweets corpus are saved in "hpv_twitter_annotation.tsv".

@@ -31,5 +31,20 @@ School of Biomedical Informatics
 The University of Texas Health Science Center at Houston
 https://sbmi.uth.edu/bsdi/
 
+## CITE
+Please cite the following [article](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2772917), if the data is useful for your project.
+```
+@article{du2020use,
+  title={Use of Deep Learning to Analyze Social Media Discussions About the Human Papillomavirus Vaccine},
+  author={Du, Jingcheng and Luo, Chongliang and Shegog, Ross and Bian, Jiang and Cunningham, Rachel M and Boom, Julie A and Poland, Gregory A and Chen, Yong and Tao, Cui},
+  journal={JAMA Network Open},
+  volume={3},
+  number={11},
+  pages={e2022025--e2022025},
+  year={2020},
+  publisher={American Medical Association}
+}
+```
+
 UPDATE DATE:
-10/20/2020
+11/17/2020
